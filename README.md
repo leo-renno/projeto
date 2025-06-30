@@ -1,5 +1,5 @@
 ## Projeto
-Trata-se de um agregador de links a ser empregado como um cartão de visityas online.
+Trata-se de um agregador de links a ser empregado como um cartão de visitas online.
 Foi desenvolvido sob a tutela de Mayk Brito como conclusão da formação oferecida gratuitamente pelo programa Discover da Rocketseat.
 
 ## Tecnologias envolvidas:
