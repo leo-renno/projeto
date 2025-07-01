@@ -1,9 +1,8 @@
 ## Projeto
-Trata-se de um agregador de links a ser empregado como um cartão de visitas online.
-Foi desenvolvido sob a tutela de Mayk Brito como conclusão da formação oferecida gratuitamente pelo programa Discover da Rocketseat.
+This project is a link aggregator designed to serve as a digital business card. It was developed under the mentorship of Mayk Brito as the final project of the Discover program — a free web development course offered by Rocketseat.
 
 ## Tecnologias envolvidas:
-HTML e CSS
+HTML5 e CSS3
 JavaScript
 Git e Github
 Figma
